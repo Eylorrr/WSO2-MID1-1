@@ -37,7 +37,7 @@ h1{
 
 .footer h3{
   text-align: center;
-  white-space: nowrap;
+
 }
 
 
@@ -67,12 +67,6 @@ h1{
     background-color: aliceblue;
     filter: drop-shadow(0 0 1rem black);
   
-
-    
-   
-    
-    
-    
   }
 .row .pi1{
   background-color:  #DB2B3F;
@@ -82,17 +76,20 @@ h1{
 }
 
 
+
   .copyright {
-    padding: 20px;
+    padding: 30px;
     background: var(--main-color);
     text-align: center;
     color: #201f1f; 
     background-color: #847152;
+    
   }
 
   .footer {
-    display: grid;place-items: center;
-    padding: 10px;
+    display: grid;
+    place-items: center;
+    padding: 15px;
     color: #000;
     background-color: #847152;
     }
