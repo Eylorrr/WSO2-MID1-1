@@ -61,7 +61,8 @@ h1{
   }
 
   .row .pi1 .im1 {  
-    width: 40%;
+    width: 30%;
+    height: auto;
     border-radius: 100%;
     border: 5px solid black;
     background-color: aliceblue;
