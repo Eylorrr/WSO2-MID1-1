@@ -61,16 +61,18 @@ h1{
   }
 
   .row .pi1 .im1 {  
-    width: 20%;
+    width: 30%;
     border-radius: 100%;
     border: 5px solid black;
     background-color: aliceblue;
     filter: drop-shadow(0 0 1rem black);
+    
+    
   
   }
 .row .pi1{
   background-color:  #DB2B3F;
-  padding: 70px;
+  padding: 10px;
   
   
 }
