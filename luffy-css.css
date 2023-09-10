@@ -34,6 +34,19 @@ h1{
   text-shadow: 4px 4px #DB2B3F;
 
 }
+.skills .po3{
+text-align: center;
+font-size: 30px;
+
+
+}
+.skills .po2{
+  font-size: 30px;
+}
+
+.skills .po1{
+  font-size: 25px;
+}
 
 .footer h3{
   text-align: center;
@@ -41,12 +54,7 @@ h1{
 }
 
 
-
-  .hh1{
-    padding-left: 2%;
-    text-align: center;
     
-}
 
 
   .po1{
@@ -74,14 +82,14 @@ h1{
   }
   .row .pi1 .drew2{
 padding-top: 50px;
-max-width: 100%;
+max-width: 90%;
 height: auto;
 
 
   }
+
 .row .pi1{
   background-color:  #DB2B3F;
-  padding: 10px;
   background-image: url("665.jpg");
   background-size: 100% 100%;
   padding-bottom: 50px;
