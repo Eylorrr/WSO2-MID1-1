@@ -74,7 +74,8 @@ h1{
   }
   .row .pi1 .drew2{
 padding-top: 50px;
-
+max-width: 100%;
+height: auto;
 
 
   }
